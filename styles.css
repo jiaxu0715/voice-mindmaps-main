@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    color: #C69749;
+    font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
+    background-color: #282a3a;
+
+}
+
+h1 {
+    text-align: center;
+    display: absolute;
+    font-size: 4em;
+    padding-top: 30px;
+}
+#skitt-ui{
+    display: block;
+    
+
+}
+
+
+#results {
+    text-align: center;
+    font-size: 1em;
+    padding-bottom: 30px;
+}
+
+#jsmind_container {
+    width: 98%;
+    height: 60%;
+    background:#282a3a;
+    margin: auto;
+    display: block;
+}
+
+.option{
+
+    display: block;
+    padding-top: 30px;
+    text-align: center;
+}
